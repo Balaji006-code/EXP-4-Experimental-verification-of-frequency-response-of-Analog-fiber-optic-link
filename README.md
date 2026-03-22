@@ -97,4 +97,4 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The frequency response of the 660nm analog fiber optic link was successfully verified, showing a 3dB cutoff frequency beyond which the signal attenuation increases significantly.
