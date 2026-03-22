@@ -66,24 +66,32 @@ current flows through its emitter generating the voltage across the resistance c
 
 ---
 
-## BLOCK DIAGR
+## BLOCK DIAGRAM
+
+<img width="1334" height="781" alt="image" src="https://github.com/user-attachments/assets/46321833-0931-4527-8409-d7931a80d77c" />
 
 
 ---
 
 
 ## TABULATION  
-**Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1575" height="1600" alt="image" src="https://github.com/user-attachments/assets/f2ef8e63-8acb-4178-af4e-1e73300e3c3d" />
+
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1315" height="675" alt="image" src="https://github.com/user-attachments/assets/f062e526-0aaa-4569-9c06-24ce2e1f126d" />
+
+
+---
+
+## GRAPH
+
+<img width="1080" height="1388" alt="image" src="https://github.com/user-attachments/assets/baef0d33-3956-4bf6-b13d-14ea4dfc6e74" />
+
 
 ---
 
